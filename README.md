@@ -2,25 +2,33 @@
 deep learning to identify emotion in faces
 
 Using tensorflow (and keras), attempt to identify the emotion in a face - working off the Karolinska faces.
+
 Caveats: only caucasian people, young adults. 
+
 Challenge: images have front pictures as well as semiprofile and full profile on either side.
+
 The Karolinska Directed Emotional Faces
+
 Lundqvist, D., Flykt, A., &  Öhman, A. (1998). The Karolinska Directed Emotional Faces - KDEF, CD ROM from Department of Clinical Neuroscience, Psychology section, Karolinska Institutet, ISBN 91-630-7164-9.
 
 Summary
+
 The Karolinska Directed Emotional Faces (KDEF) is a set of totally 4900 pictures of human facial expressions. The set of pictures contains 70 individuals displaying 7 different emotional expressions. Each expression is viewed from 5 different angles.
 
 Subjects
+
 Population: 70 amateur actors, 35 females and 35 males.
 Selection criteria’s: Age between 20 and 30 years of age. No beards, mustaches, earrings or eyeglasses, and preferably no visible make-up during photo-session.
 
 Method
+
 All subjects received written instructions in advance. These instructions entailed a description of the seven different expressions that they were to pose during the photo session. The subject was asked to rehearse the different expressions for 1 hour before coming to the photo session. It was emphasized that the subject should try to evoke the emotion that was to be expressed, and - while maintaining a way of expressing the emotion that felt natural to them - try to make the expression strong and clear.
 	All subjects wore special gray T-shirts. They were seated at a distance of approximately three meters from the camera. The absolute distance was adapted for each subject by adjusting the camera position until the subject’s eyes and mouth were at specific, pre-defined vertical and horizontal positions on the camera’s grid screen. 
 	The lights were set to cast a soft indirect light evenly distributed at both sides of the face. 
 After a session of rehearsal, the subjects were shot in one expression at the time until all seven expressions had been shot (series one). The subjects were the shot once again in all expressions and angles (series two).
 
 Equipment
+
 Camera: Pentax LX.
 Lens:  Pentax original 135 mm.
 Extra: Grid screen.
@@ -28,12 +36,14 @@ Film: Kodak 320 T.
 Lights: 3 * 500 W lamps.
 
 Digitizing
+
 Hardware: Macintosh 8500/120, Polaroid Sprintscan 35.
 Software: Adobe Photoshop 4.
 Settings: Positives (36 * 24 mm) were scanned in RGB color, in 625 dpi resolution.
 Extra: Each picture was adjusted to a digital grid. Once again, vertical and horizontal position of eyes and mouth were adjusted to specific positions on the grid, and then cropped to a size of 562 pixels width and 762 pixels height.
 
 Details
+
 Copyright:  Psychology section, Department of Clinical Neuroscience, 
 Karolinska Institute, Stockholm, Sweden.
 Participants: 70 (35 males and 35 females).
