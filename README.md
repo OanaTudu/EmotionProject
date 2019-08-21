@@ -86,3 +86,5 @@ Codes:
 		Extension: Picture format 
 					JPG = jpeg (Joint Photographic Experts Group)
 # EmotionProject2
+Acquire more images from the internet, and retrain on a larger data set. 
+Play around with the parameters to see if the performance can be improved.
