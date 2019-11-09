@@ -58,7 +58,9 @@ Colors: 16.7 million (32 bit).
 Size inflated: 1.6 Mb.
 Size compressed: approximately 122 kb (ranging from 85 to 158 kb).
 File format: JPEG.
+
 Compression quality: 94 %.
+
 Codes:
 	Example: AF01ANFL.JPG
 		Letter 1: Session 
